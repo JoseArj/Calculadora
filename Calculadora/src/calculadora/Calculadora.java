@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package calculadora;
-
+// Comentario desde GitHub a NetBeans.
 /**
  *
  * @author josej
